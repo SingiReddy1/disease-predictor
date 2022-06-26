@@ -12,7 +12,7 @@ Follow the instructions to run the system on your local machine :
 
 First, clone the project and 
 ```
-https://github.com/theArjun/disease-predictor.git
+https://github.com/SingiReddy1/disease-predictor
 ```
 
 Install the virtual environment.
